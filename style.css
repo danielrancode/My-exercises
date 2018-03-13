@@ -1,0 +1,16 @@
+.redtext {color:red;}
+.greengoblins {color:green;}
+p > a {color:yellow;
+      font-size:40px;}
+#Daniel {border: 3px solid black;
+        background-color: yellow;
+        position: absolute;
+        top:15px;
+        left:25px;}
+#Methuselah {border: 2px solid purple;
+            position: absolute;
+            top:65px;
+            left:5px;}
+p:first-line {font-weight:bold;
+                font-size:30px;
+                color:green;}
